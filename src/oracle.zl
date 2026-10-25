@@ -1,0 +1,2 @@
+// oracle: scaffold. The code moves here from the main repo (new package, no source in the main repo), see docs/EXTRACTION.md there.
+namespace oracle

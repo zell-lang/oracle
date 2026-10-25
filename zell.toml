@@ -1,0 +1,7 @@
+[package]
+name = "oracle"
+version = "0.0.1"
+namespace = "oracle"
+
+license = "MIT"
+description = "Oracle driver for zell-lang/db"
